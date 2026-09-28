@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield: Password Strength Analyzer",
+  "description": "A cybersecurity virtual internship project featuring real-time password strength analysis, entropy metrics, attack resistance modeling, audit logging, and security awareness modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
